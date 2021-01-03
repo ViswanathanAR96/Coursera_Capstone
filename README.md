@@ -2,8 +2,8 @@
 Applied Data Science Capstone - IBM
 
 ## Battle of Cities
-This note is part of the IBM Applied Data Science Capstone project. This course is Part-4 of 4-Course Specialization. The capstone project involves using Python and libraries such as numpy, pandas, matplotlib, seaborn, and folium. The Project is 'Battle of neighborhood'.<br>
-Lets say, you want to relocate to another city, due to work reasons. You adore your current neighbourhood, and lounge for same/similar neighbourhood in your new city. This project, involves finding the right town using the location data offerred by Foursquare API.
+This note is part of the IBM Applied Data Science Capstone project. This course is Part-4 of 4-Course Specialization. The capstone project involves using Python and libraries such as numpy, pandas, matplotlib, seaborn, and folium. The Project is 'Battle of Cities'.<br>
+Lets say, you want to relocate to another city, due to work reasons. You adore your current city, and lounge for same/similar city in your new State. This project, involves finding the right city using the location data offered by Foursquare API.
 
 ## Problem Statement
 I am a city person, and I want to explore new cities. However, due to work reasons, I allowed to relocate only among these 4 states (New York, New Jersey, Connecticut, and Pennsylvania). I want to find a city of my choice to relocate. What would it be? <br>
